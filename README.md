@@ -2,7 +2,7 @@
 
    <p>Uma API REST, ao aderir aos princípios da arquitetura REST, expande suas interações para além do ambiente web, proporcionando um meio eficaz de comunicação entre clientes e servidores. Ao seguir esses princípios, a API busca assegurar uma transferência uniforme e estruturada de informações. Essa abordagem inclui conceitos fundamentais, como a definição clara de recursos, identificados por URIs, e a transmissão de dados por meio de representações, geralmente em formatos como JSON ou XML. A aplicação consistente de métodos HTTP, como GET, POST, PUT e DELETE, direciona operações específicas, estabelecendo assim serviços web eficientes.</p>
     
-<p>Quando uma API segue integralmente esses elementos, ela é categorizada como **RESTful**, refletindo uma implementação aderente aos princípios orientadores da arquitetura REST.</p>
+<p>Quando uma API segue integralmente esses elementos, ela é categorizada como RESTful, refletindo uma implementação aderente aos princípios orientadores da arquitetura REST.</p>
  
 ## Diferenças entre REST e RESTFul
 

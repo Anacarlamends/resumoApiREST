@@ -1,6 +1,8 @@
  # Api REST e RESTFul
 
-   <p>   Uma API REST segue os princípios da arquitetura REST, permitindo interações com diversos serviços além da web. Quando uma API segue esses princípios, tal como, define que as informações são transferidas de forma uniforme e estruturada entre o cliente e o servidor, por meio de representações de recursos,fundamentos, incluindo o uso de recursos, URIs, representações (como JSON ou XML) e uso de métodos HTTP (GET, POST, PUT, DELETE) para operações específicas para criar serviços web eficientes. ela é considerada RESTful.</p>
+   <p>Uma API REST, ao aderir aos princípios da arquitetura REST, expande suas interações para além do ambiente web, proporcionando um meio eficaz de comunicação entre clientes e servidores. Ao seguir esses princípios, a API busca assegurar uma transferência uniforme e estruturada de informações. Essa abordagem inclui conceitos fundamentais, como a definição clara de recursos, identificados por URIs, e a transmissão de dados por meio de representações, geralmente em formatos como JSON ou XML. A aplicação consistente de métodos HTTP, como GET, POST, PUT e DELETE, direciona operações específicas, estabelecendo assim serviços web eficientes.</p>
+    
+<p>Quando uma API segue integralmente esses elementos, ela é categorizada como RESTful, refletindo uma implementação aderente aos princípios orientadores da arquitetura REST.</p>
  
 ## Diferenças entre REST e RESTFul
 
@@ -20,7 +22,7 @@ Diante disso, é notável que um serviço web que é chamado de **RESTful** segu
 
   ## HTTP verbs
 
-  <p>      Os HTTP verbs referem-se aos métodos de requisição utilizados no protocolo HTTP (Hypertext Transfer Protocol) para indicar a ação desejada sobre um recurso específico. Cada um desempenha papéis específicos na interação entre clientes e servidores na web. Alguns dos principais HTTP verbs:</p>
+  <p>Referem-se aos métodos de requisição utilizados no protocolo HTTP (Hypertext Transfer Protocol) para indicar a ação desejada sobre um recurso específico. Cada um desempenha papéis específicos na interação entre clientes e servidores na web. Alguns dos principais HTTP verbs:</p>
 
 - <p>GET<br>
   Utilizado para obter a representação de um recurso específico do servidor.</p>
@@ -51,7 +53,7 @@ Diante disso, é notável que um serviço web que é chamado de **RESTful** segu
 
      ## HTTP Status Code
   
-<p>   HTTP Status Code são códigos numéricos que indicam o resultado de uma requisição HTTP realizada por um cliente a um servidor. Esses códigos são parte fundamental do protocolo HTTP (Hypertext Transfer Protocol) e são incluídos nas respostas do servidor para comunicar o resultado da requisição ao cliente. Algumas categorias principais de códigos de status HTTP:</p>
+<p>São códigos numéricos que indicam o resultado de uma requisição HTTP realizada por um cliente a um servidor. Esses códigos são parte fundamental do protocolo HTTP (Hypertext Transfer Protocol) e são incluídos nas respostas do servidor para comunicar o resultado da requisição ao cliente. Algumas categorias principais de códigos de status HTTP:</p>
 
 - <p>1xx: Informativo<br>
    Indica que a solicitação foi recebida e o processo continua.</p>

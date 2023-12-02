@@ -26,9 +26,9 @@ Diante disso, é notável que um serviço web que é chamado de **RESTful** segu
       Os HTTP verbs referem-se aos métodos de requisição utilizados no protocolo HTTP (Hypertext Transfer Protocol) para indicar a ação desejada sobre um recurso específico. Cada um desempenha papéis específicos na interação entre clientes e servidores na web. Alguns dos principais HTTP verbs:
 </p>
 
-* GET
-  Utilizado para obter a representação de um recurso específico do servidor.
-*
+- <p>GET<br>
+  Utilizado para obter a representação de um recurso específico do servidor.</p>
+
     
 
     

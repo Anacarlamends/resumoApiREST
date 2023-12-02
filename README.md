@@ -29,6 +29,20 @@ Diante disso, é notável que um serviço web que é chamado de **RESTful** segu
 - <p>GET<br>
   Utilizado para obter a representação de um recurso específico do servidor.</p>
 
+- <p>POST<br>
+   Geralmente utilizado para criar um novo recurso no servidor.</p>
+   
+- <p>PUT<br>
+   Usado para atualizar ou criar um recurso.</p>
+
+- <p>DELETE<br>
+    Remove o recurso identificado pela URI.</p>
+
+- <p>DELETE<br>
+    Remove o recurso identificado pela URI.</p>
+
+  
+
     
 
     

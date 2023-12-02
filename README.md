@@ -1,6 +1,6 @@
  # Api REST e RESTFul
 
-      Uma API REST segue os princípios da arquitetura REST, permitindo interações com diversos serviços além da web. Quando uma API segue esses princípios, tal como, define que as informações são transferidas de forma uniforme e estruturada entre o cliente e o servidor, por meio de representações de recursos,fundamentos, incluindo o uso de recursos, URIs, representações (como JSON ou XML) e uso de métodos HTTP (GET, POST, PUT, DELETE) para operações específicas para criar serviços web eficientes. ela é considerada RESTful.
+   <p>   Uma API REST segue os princípios da arquitetura REST, permitindo interações com diversos serviços além da web. Quando uma API segue esses princípios, tal como, define que as informações são transferidas de forma uniforme e estruturada entre o cliente e o servidor, por meio de representações de recursos,fundamentos, incluindo o uso de recursos, URIs, representações (como JSON ou XML) e uso de métodos HTTP (GET, POST, PUT, DELETE) para operações específicas para criar serviços web eficientes. ela é considerada RESTful.</p>
  
 ## Diferenças entre REST e RESTFul
 
@@ -52,6 +52,25 @@ Diante disso, é notável que um serviço web que é chamado de **RESTful** segu
      ## HTTP Status Code
   
 <p>   HTTP Status Code são códigos numéricos que indicam o resultado de uma requisição HTTP realizada por um cliente a um servidor. Esses códigos são parte fundamental do protocolo HTTP (Hypertext Transfer Protocol) e são incluídos nas respostas do servidor para comunicar o resultado da requisição ao cliente. Algumas categorias principais de códigos de status HTTP:</p>
+
+- <p>1xx: Informativo<br>
+Indica que a solicitação foi recebida e o processo continua.</p>
+
+- <p>2xx: Sucesso<br>
+Indica que a ação foi recebida, compreendida e aceita com sucesso.</p>
+
+- <p>3xx: Redirecionamento<br>
+Indica que outras ações devem ser tomadas para concluir a solicitação.</p>
+
+- <p>4xx: Erro do cliente<br>
+Indica que a solicitação contém sintaxe incorreta ou não pode ser atendida.</p>
+
+- <p>5xx: Erro do servidor<br>
+Indica que o servidor não atendeu a uma solicitação aparentemente válida.</p>
+
+ ---
+
+ **Autor do resumo:**  Ana Carla Oliveira Mendes - 01570147
 
 
 

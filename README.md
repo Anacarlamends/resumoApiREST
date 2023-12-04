@@ -72,7 +72,7 @@ Diante disso, é notável que um serviço web que é chamado de **RESTful** segu
 
  ---
 
- **Autor do resumo:**  Ana Carla Oliveira Mendes - 01570147    |   Luana Vitória Ribeiro Bernardo - 01565426
+ **Autor do resumo:**  Ana Carla Oliveira Mendes - 01570147  
  
 
 
